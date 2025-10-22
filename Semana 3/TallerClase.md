@@ -2,7 +2,7 @@
 
 Primero descargamos un servidor para poder montar nuestro CMS, en este caso utilizaremos "[[XAMPP](https://www.apachefriends.org/es/download.html)]". Haremos uso de la tecnologia "PHP"
 
-**Nota:** Un CMS (Content Management System o Sistema de Gestión de Contenidos) es una plataforma que permite crear, editar y administrar sitios web sin necesidad de conocimientos avanzados de programación.
+> **Nota:** Un CMS (Content Management System o Sistema de Gestión de Contenidos) es una plataforma que permite crear, editar y administrar sitios web sin necesidad de conocimientos avanzados de programación.
 
 ![Descarga](IMG/Instalacion.png)
 
